@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang=en>
+    <head>
+        <meta charset="UTF-8">
+        <title>Coctact Info</title>
+    </head>
+    
+    <body>
+        <h1>Contact information for Ross Smith</h1>
+
+        <ul>
+            <li><h2>Address - </h2>
+                <p>1 hollington place <br/>
+                   Ashford <br/>
+                   Kent <br/>
+                   Tn24 9pb <br/>
+                </p>
+            </li>
+            <li><h2>Email - </h2>
+                <ul>
+                    <li>ross11kitchen@mail.com</li>
+                    <li>kkrenovations@mail.com</li>
+                </ul>
+            </li>
+        </body>
+</html>                       
+
+
